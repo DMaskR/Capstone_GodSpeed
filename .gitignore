@@ -74,8 +74,7 @@ Plugins/
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/Megascans/*
 Content/City_of_Brass_Enviroment/*
 Content/Cave/*
 Content/ModularLostRuinKit/*
-Content/ProceduralBuildingGenerator/*
+Content/ProceduralBuildingGenerator
